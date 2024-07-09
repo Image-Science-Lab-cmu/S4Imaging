@@ -1,1 +1,1 @@
-# S4Imaging_ECCV2024
+# S4Imaging [ECCV2024]
